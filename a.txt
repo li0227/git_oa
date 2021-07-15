@@ -4,3 +4,15 @@
 444444
 555555
 dev add
+                                public Integer getId() {
+			return id;
+		}
+		public void setId(Integer id) {
+			this.id = id;
+		}
+		public String getUserAddress() {
+			return userAddress;
+		}
+		public void setUserAddress(String userAddress) {
+			this.userAddress = userAddress;
+		}
