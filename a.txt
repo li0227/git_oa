@@ -5,3 +5,16 @@
 555555
 master add
 dev add
+		public void setUserAddress(String userAddress) {
+			this.userAddress = userAddress;
+		}
+		public void setId(Integer id) {
+			this.id = id;
+		}
+		public Integer getId() {
+			return id;
+		}
+		public String getUserAddress() {
+			return userAddress;
+		}
+		
