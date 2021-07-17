@@ -6,3 +6,4 @@
 master add
 dev add
 localhost add
+local add02
