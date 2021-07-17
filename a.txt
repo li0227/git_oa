@@ -8,3 +8,4 @@ dev add
 localhost add
 local add02
 77777777777
+remote 888888
