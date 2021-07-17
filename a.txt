@@ -5,3 +5,4 @@
 555555
 master add
 dev add
+localhost add
